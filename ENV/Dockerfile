@@ -2,6 +2,6 @@ FROM almalinux:9
 ENV trainer ="manikumar"\
     course = "docker"\
     duration ="10hrs"
-CMD ["sleep","7"]
+CMD ["sleep","500"]
 
 
